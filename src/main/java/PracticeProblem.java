@@ -6,7 +6,7 @@
 
         * Date Created: April 28, 2026
 
-        * Date Last Modified: april 28, 2026
+        * Date Last Modified: may 1, 2026
 
         */
 
@@ -53,7 +53,7 @@ public class PracticeProblem {
 		return arr3[idx];
 	}
 
-	public static void replaceElement(int idx, double num, ndouble[] arr2){
+	public static void replaceElement(int idx, double num, double[] arr2){
 		arr2[idx] = num;
 	}
 		
